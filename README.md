@@ -1,7 +1,7 @@
 <h1>👋 HELLO WORLD, I'm Sanjay</h1>
 
 # 💫 About Me:
-⚙️ Backend Developer with a strong passion for Competitive Programming and Web Development. <br><br>💻 Dedicated to creating innovative solutions while staying at the forefront of the latest technologies and best practices. <br><br>🤝 Open to collaborative opportunities on impactful projects and eager to tackle challenging problems.<br><br>And Love to LEARN with Tech Minds.
+⚙️ Backend Developer with a strong passion for Competitive Programming and Web Development. <br><br>💻 Dedicated to creating innovative solutions while staying at the forefront of the latest technologies and best practices. <br><br>🤝 Open to collaborative opportunities on impactful projects and eager to tackle challenging problems.<br><br><strong>And Love to LEARN with Tech Minds.</strong>
 
 
 ## 🌐 Socials:
